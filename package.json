@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node ."
+  },
+  "name": "heroku",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Свистунова Марина Петровна <31745345+MarinaSvistunova@users.noreply.github.com>",
+  "license": "MIT"
+}
